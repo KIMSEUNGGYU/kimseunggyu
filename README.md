@@ -1,12 +1,10 @@
 ## I'm Frontend Developer 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseunggyu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/KIMSEUNGGYU"
   width="600"
   height="200"
-/>
+/> -->
 
 ### Skills 🖌️
 
@@ -18,13 +16,10 @@
 <span><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/Turborepo-000?style=flat-square&logo=turborepo&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Cursor AI-6E41C0?style=flat-square&logo=cursor&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Cursor-00A0E4?style=flat-square&logo=cursor&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Perplexity AI-000000?style=flat-square&logo=perplexity&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Cursor AI-6E41C0?style=flat-square&logo=cursor&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white"/></span>
-
-<!-- <span><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/></span> -->
 
 #### I usually use these
 
